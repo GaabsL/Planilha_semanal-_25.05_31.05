@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Assaí",
+  "description": "Relatório de Performance Digital Semanal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
